@@ -15,9 +15,13 @@ Para rodar esse projeto voce ira precisar ter:
 3.  Xampp - v7.4.30
 4.  Composer - v2.4.2
 
+## Passo a Passo
+Antes de começar, você vai precisar ter instalado em sua máquina também a ferramenta: [Git](https://git-scm.com). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ofreitasvictor/infolibrary.git
+$ git clone https://github.com/ofreitasvictor/infolibrary.git 
+# esse comando acima servirá no linux. Caso esteja usando Windows será preciso instalar o git através do link:
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd infolibrary
