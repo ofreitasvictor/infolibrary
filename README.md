@@ -35,6 +35,9 @@ $ composer install
 # Voce pode escolher a base de dados Ex: infolibrary
 $ localhost/phpMyAdmin/
 
+# Entre no projeto com seu editor de preferencia e faça um copia do .env.example e renomeie para .env
+# E configure o seu arquivo .env com as credencias do banco de dados
+
 # Entre no projeto com seu editor de preferencia e configure o seu arquivo .env com as credencias do banco de dados
 
 # Rode as migrations
