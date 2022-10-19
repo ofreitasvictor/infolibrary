@@ -42,7 +42,7 @@ $ php artisan serve
 
 # Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
- - [PHP](https://www.php.net) 
- - [Laravel](https://laravel.com) 
- - [Composer](https://getcomposer.org)
- - [MySql](https://www.mysql.com) 
+ - PHP - https://www.php.net
+ - Laravel https://laravel.com
+ - Composer https://getcomposer.org
+ - MySql https://www.mysql.com
